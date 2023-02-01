@@ -1,0 +1,7 @@
+DB_HOST=localhost
+DB_USER=tokized_admin
+DB_PASSWORD=*!A;K%azwz8j
+DB_NAME=tokized_db
+DB_DIALECT=postgres
+AUTH_SECRET=dineli-secret-key
+APP_ROOT=http://localhost:8000
